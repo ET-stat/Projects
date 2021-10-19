@@ -1,0 +1,5 @@
+This project uses facturation data. It necessarily contains Amounts; other attributes are time, related amounts, id of facture.
+The plan is to derive from the transaction in cash some interesting information for the buiseness.For exemple:
++  create meaningful statistics
++  model with chronological series the dayly/weekly amounts
++  detect abnormal variations in categories of amounts
