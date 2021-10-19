@@ -1,6 +1,0 @@
-Quelle information y a-t-il dans les montants monétaires des transactions des entreprises? 
-Autrement dit, quelle information peut-on sortir des transactions monétaires normales d'une entreprise 
-(e.g. une augmentation des prix, un vol à la caisse)
-
-C'est un premier projet personnel. L'utilité première était d'apprendre à se servir de la bibliothèque de Pandas. Il s'est avéré que le nettoyage des données était intéressant.
-La finalité du projet est douteuse, car on se doute de la grande variabilité des données, dûe notamment à la variabilité des services offerts et de leur prix. 
